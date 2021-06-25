@@ -1,0 +1,11 @@
+
+public class JavaScriptCode {
+
+	public static void main(String[] args) {
+        
+        String name = "Seamore";
+        System.out.println(name.toUpperCase());
+		int a = 1;
+		int a = 5;
+    
+    //before downloading this make a new file (JavaScriptCode.java)
